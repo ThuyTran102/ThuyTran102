@@ -39,3 +39,4 @@ I'm a **Data Science/Data Analyst Enthusiast** in Alberta, Canada.
 - 📧  Feel free to reach out to me via email: **jobsthuy@gmail.com**
 
 # Thanks! 👨‍💻
+*data-driven decision-making*
