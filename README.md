@@ -3,17 +3,17 @@
 
 
 ## 🙋🏻‍♀️ About Me:
-I'm a **Data Science/Data Analyst Enthusiast** in Alberta, Canada.
-- I'm a data professional with a strong foundation in Data Analytics and Data Science, equipped with hands-on project experience in data cleaning, data analysis, data visualization, and machine learning.
-- My domain knowledge includes: 
-  >- 6+ years of experience in Banking & Finance industry
-  >- 2 years of experience in Administrative work
-  >- 1 year of experience in Retail
-- I'm eager to transition into a professional role as a Data Analyst/Data Scientist, where I can apply my skills and passion for data-driven insights.
-- I'm reliable, responsible, with a strong work ethic and a commitment to delivering high-quality work.
+I'm an **Aspiring Data Analyst/Data Scientist** based in Alberta, Canada
+- 👨‍💻 I possess a strong foundation in Data Analytics and Data Science, equipped with **hands-on** project experience in data cleaning, data analysis, data visualization, and machine learning.
+- 💼 My domain knowledge includes: 
+  >- 6+ years of experience in Banking and Finance.
+  >- 2 years of experience in Administrative Roles.
+  >- 1 year of experience in Retail Merchandising.
 - I’m passionate about continuous learning and improvement.
 
-
+- 📢 I'm eager to transition into a professional role as a Data Analyst/Data Scientist, where I can leverage my skills and passion for data-driven insights to support strategic decision-making and drive organizational success.
+- 📧  Feel free to reach out to me via email: **jobsthuy@gmail.com**
+---
 
 ## 💻 Technical Skills: 
 - **Programming Languages**: `SQL`,  `Python`,  `R`,  `DAX`,  `VBA`
@@ -31,12 +31,7 @@ I'm a **Data Science/Data Analyst Enthusiast** in Alberta, Canada.
 
 ## 📁 Projects:
 - You can check out some of my work and projects on my GitHub here (under `Repositories`).
+---
 
-
-# 👨‍💻
-
-- 📢  I'm passionate about leveraging my data expertise to deliver actionable insights and support strategic decision-making and organizational success.
-- 📧  Feel free to reach out to me via email: **jobsthuy@gmail.com**
-
-# Thanks! 👨‍💻
+### Thanks! 👨‍💻
 *data-driven decision-making*
